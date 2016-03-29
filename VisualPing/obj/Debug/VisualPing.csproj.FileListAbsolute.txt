@@ -1,0 +1,14 @@
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\bin\Debug\VisualPing.exe.config
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\bin\Debug\VisualPing.exe
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\bin\Debug\VisualPing.pdb
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\VisualPing.csprojResolveAssemblyReference.cache
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\MainWindow.g.cs
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\App.g.cs
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\VisualPing_MarkupCompile.cache
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\VisualPing_MarkupCompile.lref
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\MainWindow.baml
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\VisualPing.g.resources
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\VisualPing.Properties.Resources.resources
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\VisualPing.csproj.GenerateResource.Cache
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\VisualPing.exe
+c:\users\mirko\documents\visual studio 2015\Projects\VisualPing\VisualPing\obj\Debug\VisualPing.pdb
